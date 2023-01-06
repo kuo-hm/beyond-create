@@ -1,6 +1,16 @@
-import '../styles/globals.css'
-import type { AppProps } from 'next/app'
+import type { AppProps } from "next/app";
+import "../assets/css/globals.css";
+import Footer from "../layouts/Footer";
+import Navbar from "../layouts/Navbar";
 
-export default function App({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+function MyApp({ Component, pageProps }: AppProps) {
+  return (
+    <div>
+      <Navbar />
+      <Component {...pageProps} />
+      <Footer />
+    </div>
+  );
 }
+
+export default MyApp;
