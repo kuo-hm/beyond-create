@@ -5,12 +5,12 @@ const Work = () => {
     <section id="section-grid-work" className="section-grid-work wf-section">
       <div className="wrap-desktop-only">
         <div className="grid-work">
-          <Cards />
-          <Cards />
-          <Cards />
-          <Cards />
-          <Cards />
-          <Cards />
+          <Cards imageName={"barasoins.png"} />
+          <Cards imageName={"beyondexpertisefr.png"} />
+          <Cards imageName={"beyondexpertise.png"} />
+          <Cards imageName={"friendsrestaurant.png"} />
+          <Cards imageName={"mebeauty.png"} />
+          <Cards imageName={"uselect.png"} />
         </div>
       </div>
       <div className="wrap">

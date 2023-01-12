@@ -1,5 +1,4 @@
 import Image from "next/image";
-import logo from "../assets/images/logo/logo-corporate-black.png";
 const index = () => {
   return (
     <div className="header header-not-sticky">
@@ -21,10 +20,11 @@ const index = () => {
                 /> */}
                 <div className="header-logo-container">
                   <Image
-                    src={logo}
+                    src="/images/logo/logo-corporate-black.png"
                     loading="lazy"
                     alt="Bootnow dark."
                     className="logo-bootnow-text"
+                    fill
                   />
                   <div className="header-logo-text">À propos</div>
                 </div>

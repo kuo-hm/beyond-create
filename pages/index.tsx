@@ -1,3 +1,4 @@
+import Fonct from "./home/components/Fonct";
 import Herobanner from "./home/components/Herobanner";
 import Medium from "./home/components/Medium";
 import Section10 from "./home/components/Section10";
@@ -21,6 +22,7 @@ const index = () => {
       <Time />
       <Stars />
       <Section5 />
+      <Fonct />
       <Section6 />
       <Section7 />
       <Section8 />
