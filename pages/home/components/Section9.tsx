@@ -16,7 +16,7 @@ const Section9 = () => {
           </h3>
           <div className="wrap-small">
             <p className="p-subheader">
-              Que tu sois au stade de l'idée ou déjà engagé dans le
+              Que tu sois au stade de l&apos;idée ou déjà engagé dans le
               développement de ton app, nous avons une solution pour faire
               briller ton projet et atteindre tes objectifs.
             </p>

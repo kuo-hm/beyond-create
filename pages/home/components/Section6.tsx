@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const Section6 = () => {
   return (
     <div className="section-medium-padding wf-section">
@@ -9,8 +11,8 @@ const Section6 = () => {
           >
             <div className="quote-container">
               <div className="xl extra-bold color-text-strong mb-24">
-                Travailler avec Bootnow c'est confier votre idée encore confuse
-                à des génies créatifs qui comprennent parfaitement votre
+                Travailler avec Bootnow c&apos;est confier votre idée encore
+                confuse à des génies créatifs qui comprennent parfaitement votre
                 business et la traduisent en maquettes de la plus haute qualité.
               </div>
               <div className="container-testimonial-quote">
@@ -22,7 +24,7 @@ const Section6 = () => {
             </div>
             <div className="testimonial-header">
               <div className="testimonial-picture-container">
-                <img
+                <Image
                   loading="lazy"
                   width={32}
                   alt="Yann Petretti, photo de profil"
@@ -36,7 +38,7 @@ const Section6 = () => {
               </div>
             </div>
           </div>
-          <img
+          <Image
             src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/634f90e8b0f2e94bffac1f6d_boot-happy.svg"
             loading="lazy"
             id="w-node-_2ef8447b-3476-dda3-f422-f51d5b85c6c5-3f8d89c1"

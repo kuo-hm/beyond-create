@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const Time = () => {
   return (
     <div className="wf-section">
@@ -21,7 +23,7 @@ const Time = () => {
               faut des années d’expériences avant d’avoir de bons résultats.
             </p>
           </div>
-          <img
+          <Image
             src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/635a4ceb9c5314a550ef5bfd_drawing-empty.svg"
             loading="lazy"
             id="w-node-_40690fdf-dc64-025d-04e6-a9b0a982326d-3f8d89c1"

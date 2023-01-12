@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const Section8 = () => {
   return (
     <div className="section-medium-padding wf-section">
@@ -19,7 +21,7 @@ const Section8 = () => {
           >
             <div className="container-video-proto container-video-proto-phone">
               <div className="video-presentation-proto w-embed">
-                <video style={{ width: "100%" }} autoPlay="" loop="" muted="">
+                <video style={{ width: "100%" }} autoPlay loop muted>
                   <source
                     src="https://www.dropbox.com/s/ghd8mkys64wumlz/video_futures_factory_1.mp4?raw=1"
                     type="video/mp4"
@@ -31,7 +33,7 @@ const Section8 = () => {
           <div id="w-node-fd8889bb-35ab-a4a2-4ea8-7cf60c1eeaf8-3f8d89c1">
             <div className="block-container-success">
               <div className="container-icon-success">
-                <img
+                <Image
                   src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/624734e0acbab769b02dc239_money-icon.png"
                   loading="lazy"
                   width={32}
@@ -43,22 +45,22 @@ const Section8 = () => {
               </div>
             </div>
             <div className="xl color-text-strong bold mb-24">
-              Rapide, efficace et organisé. C'est le service idéal pour poser
-              des bases solides.
+              Rapide, efficace et organisé. C&apos;est le service idéal pour
+              poser des bases solides.
             </div>
             <div className="testimonial-header">
               <div className="testimonial-picture-container">
-                <img
+                <Image
                   src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/6247377e38756c6a93fc99be_nicolas-romero-futures-factory.png"
                   loading="lazy"
-                  alt=""
+                  alt='Photo de Nicolas Romero, CEO de "Futures Factory"'
                   className="testimonial-picture"
                 />
                 <div className="bullet-testimonial bullet-tesrimonial-in-picture">
-                  <img
+                  <Image
                     src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c22f53889de07f66f0086f_quote.svg"
                     loading="lazy"
-                    alt=""
+                    alt="Citation"
                   />
                 </div>
               </div>
@@ -68,10 +70,9 @@ const Section8 = () => {
               </div>
               <a
                 href="https://fr.linkedin.com/in/santoromero"
-                target="_blank"
                 className="w-inline-block"
               >
-                <img
+                <Image
                   src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c3259250204405c887d0f6_icon-linkedin.svg"
                   loading="lazy"
                   alt="Logo LinedIn"
@@ -84,7 +85,7 @@ const Section8 = () => {
           <div id="w-node-_4dcf19b1-ab60-d2e3-968f-ae37975a753c-3f8d89c1">
             <div className="block-container-success">
               <div className="container-icon-success">
-                <img
+                <Image
                   src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/624734e0acbab769b02dc239_money-icon.png"
                   loading="lazy"
                   width={32}
@@ -101,17 +102,17 @@ const Section8 = () => {
             </div>
             <div className="testimonial-header">
               <div className="testimonial-picture-container">
-                <img
+                <Image
                   src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/624873ef901221361e5993d3_edwige-michau.png"
                   loading="lazy"
-                  alt=""
+                  alt='Photo de Edwige Michau, CEO de "Barooders"'
                   className="testimonial-picture"
                 />
                 <div className="bullet-testimonial bullet-tesrimonial-in-picture">
-                  <img
+                  <Image
                     src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c22f53889de07f66f0086f_quote.svg"
                     loading="lazy"
-                    alt=""
+                    alt="Citation"
                   />
                 </div>
               </div>
@@ -121,10 +122,9 @@ const Section8 = () => {
               </div>
               <a
                 href="https://fr.linkedin.com/in/edwige-michau-02a8735a"
-                target="_blank"
                 className="w-inline-block"
               >
-                <img
+                <Image
                   src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c3259250204405c887d0f6_icon-linkedin.svg"
                   loading="lazy"
                   alt="Logo LinedIn"
@@ -138,7 +138,7 @@ const Section8 = () => {
           >
             <div className="container-video-proto">
               <div className="video-presentation-proto w-embed">
-                <video style={{ width: "100%" }} autoPlay="" loop="" muted="">
+                <video style={{ width: "100%" }} autoPlay loop muted>
                   <source
                     src="https://www.dropbox.com/s/bpevm7z4w3zqg1p/video_sportloop.mp4?raw=1"
                     type="video/mp4"

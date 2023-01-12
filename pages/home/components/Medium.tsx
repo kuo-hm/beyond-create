@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const Medium = () => {
   return (
     <div className="section-medium-padding wf-section">
@@ -16,7 +18,7 @@ const Medium = () => {
               minimale ne veut pas dire produit moche et bancal. Autrement...
             </p>
             <div className="bullet-line-container">
-              <img
+              <Image
                 src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/634f847a6f66af94a2866fd8_badge-bullet-list-cross.svg"
                 loading="lazy"
                 alt="Icon croix"
@@ -24,7 +26,7 @@ const Medium = () => {
               <div className="p-subheader dark-color-text">
                 Ton projet n’est pas pris au sérieux
               </div>
-              <img
+              <Image
                 src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/634f847a6f66af94a2866fd8_badge-bullet-list-cross.svg"
                 loading="lazy"
                 alt="Icon croix"
@@ -34,7 +36,7 @@ const Medium = () => {
               </div>
             </div>
           </div>
-          <img
+          <Image
             src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/635a4b75aac500bc458e7d32_soucoupe.svg"
             loading="lazy"
             id="w-node-_49c9b8d2-1b61-a1e9-7efe-bd848cdcb0da-3f8d89c1"

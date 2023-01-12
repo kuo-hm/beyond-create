@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const Section11 = () => {
   return (
     <div className="section-large-padding bg-gradient-white-to-pink wf-section">
@@ -33,7 +35,7 @@ const Section11 = () => {
           >
             <div className="xxxl extra-bold color-text-strong">+3</div>
             <div className="s bold uppercase">
-              années d'expérience avec les startups
+              années d&apos;expérience avec les startups
             </div>
           </div>
         </div>
@@ -52,14 +54,14 @@ const Section11 = () => {
           >
             <div className="testimonial-header">
               <div className="testimonial-picture-container">
-                <img
+                <Image
                   src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c47bd749cf6fa112f9c7d2_Christophe%20Bellagamba.png"
                   loading="lazy"
                   alt="Photo Christophe"
                   className="testimonial-picture"
                 />
                 <div className="bullet-testimonial bullet-tesrimonial-in-picture">
-                  <img
+                  <Image
                     src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c22f53889de07f66f0086f_quote.svg"
                     loading="lazy"
                     alt=""
@@ -76,7 +78,7 @@ const Section11 = () => {
                 href="https://www.linkedin.com/in/christophebellagamba/"
                 className="w-inline-block"
               >
-                <img
+                <Image
                   src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c3259250204405c887d0f6_icon-linkedin.svg"
                   loading="lazy"
                   alt="Logo LinedIn"
@@ -84,9 +86,10 @@ const Section11 = () => {
               </a>
             </div>
             <p className="s">
-              "Les différentes interactions avec Mathieu et Rémi étaient très
-              fluides et l'atelier d'1h30 consacré à l'UX est particulièrement
-              utile. Je suis très satisfait du rendu final."
+              &#34;Les différentes interactions avec Mathieu et Rémi étaient
+              très fluides et l&apos;atelier d&apos;1h30 consacré à l&apos;UX
+              est particulièrement utile. Je suis très satisfait du rendu
+              final.&#34;
             </p>
           </div>
           <div
@@ -101,14 +104,14 @@ const Section11 = () => {
           >
             <div className="testimonial-header">
               <div className="testimonial-picture-container">
-                <img
+                <Image
                   src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c47bd7edbbc3c1b26054ae_Etienne.png"
                   loading="lazy"
                   alt="Photo Etienne"
                   className="testimonial-picture"
                 />
                 <div className="bullet-testimonial bullet-tesrimonial-in-picture">
-                  <img
+                  <Image
                     src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c22f53889de07f66f0086f_quote.svg"
                     loading="lazy"
                     alt=""
@@ -125,7 +128,7 @@ const Section11 = () => {
                 href="https://www.linkedin.com/in/edesaintemarie/"
                 className="w-inline-block"
               >
-                <img
+                <Image
                   src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c3259250204405c887d0f6_icon-linkedin.svg"
                   loading="lazy"
                   alt="Logo LinedIn"
@@ -133,9 +136,9 @@ const Section11 = () => {
               </a>
             </div>
             <p className="s">
-              "La formule peut permettre de dégrossir une énorme quantité de
-              points en suspens si ce n'est pas tout simplement d'avoir une
-              version prête pour un go-to-market."
+              &#34;La formule peut permettre de dégrossir une énorme quantité de
+              points en suspens si ce n&apos;est pas tout simplement
+              d&apos;avoir une version prête pour un go-to-market.&#34;
             </p>
           </div>
           <div
@@ -150,14 +153,14 @@ const Section11 = () => {
           >
             <div className="testimonial-header">
               <div className="testimonial-picture-container">
-                <img
+                <Image
                   src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c47bd5be2eeccc55460a05_Alexy.png"
                   loading="lazy"
                   alt="Photo Alexy"
                   className="testimonial-picture"
                 />
                 <div className="bullet-testimonial bullet-tesrimonial-in-picture">
-                  <img
+                  <Image
                     src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c22f53889de07f66f0086f_quote.svg"
                     loading="lazy"
                     alt=""
@@ -172,7 +175,7 @@ const Section11 = () => {
                 href="https://www.linkedin.com/in/alexy-creusot/"
                 className="w-inline-block"
               >
-                <img
+                <Image
                   src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c3259250204405c887d0f6_icon-linkedin.svg"
                   loading="lazy"
                   alt="Logo LinedIn"
@@ -180,9 +183,9 @@ const Section11 = () => {
               </a>
             </div>
             <p className="s">
-              "Une équipe dynamique, une méthodologie rodée et un résultat à
+              &#34;Une équipe dynamique, une méthodologie rodée et un résultat à
               100% en phase avec nos attentes. Excellent et encore merci pour ce
-              coût de boost !"
+              coût de boost !&#34;
             </p>
           </div>
           <div
@@ -197,14 +200,14 @@ const Section11 = () => {
           >
             <div className="testimonial-header">
               <div className="testimonial-picture-container">
-                <img
+                <Image
                   src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c47bd7be2eec0473460a06_Mathis.png"
                   loading="lazy"
                   alt="Photo Mathis"
                   className="testimonial-picture"
                 />
                 <div className="bullet-testimonial bullet-tesrimonial-in-picture">
-                  <img
+                  <Image
                     src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c22f53889de07f66f0086f_quote.svg"
                     loading="lazy"
                     alt=""
@@ -219,7 +222,7 @@ const Section11 = () => {
                 href="https://www.linkedin.com/in/mathisbois/"
                 className="w-inline-block"
               >
-                <img
+                <Image
                   src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c3259250204405c887d0f6_icon-linkedin.svg"
                   loading="lazy"
                   alt="Logo LinedIn"
@@ -227,9 +230,10 @@ const Section11 = () => {
               </a>
             </div>
             <p className="s">
-              "L'équipe a compris très vite notre vision et a eu l'inspiration
-              que l'on espérait. L'état d'esprit est top ! Le travail livré est
-              soigné et rapide."
+              &#34;L&apos;équipe a compris très vite notre vision et a eu
+              l&apos;inspiration que l&apos;on espérait. L&apos;état
+              d&apos;esprit est top ! Le travail livré est soigné et
+              rapide.&#34;
             </p>
           </div>
           <div className="hide-on-mobile">
@@ -245,14 +249,14 @@ const Section11 = () => {
             >
               <div className="testimonial-header">
                 <div className="testimonial-picture-container">
-                  <img
+                  <Image
                     src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c47bd7fcd85222d17e223d_Edwige.png"
                     loading="lazy"
                     alt="Photo Edwige"
                     className="testimonial-picture"
                   />
                   <div className="bullet-testimonial bullet-tesrimonial-in-picture">
-                    <img
+                    <Image
                       src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c22f53889de07f66f0086f_quote.svg"
                       loading="lazy"
                       alt=""
@@ -267,7 +271,7 @@ const Section11 = () => {
                   href="https://www.linkedin.com/in/edwige-michau-02a8735a/"
                   className="w-inline-block"
                 >
-                  <img
+                  <Image
                     src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c3259250204405c887d0f6_icon-linkedin.svg"
                     loading="lazy"
                     alt="Logo LinedIn"
@@ -275,10 +279,10 @@ const Section11 = () => {
                 </a>
               </div>
               <p className="s">
-                "J'ai eu l'occasion de travailler avec Bootnow à plusieurs
-                reprises. Ils ont su m'écouter et me conseiller. C'est une
-                équipe très professionnelle, avec une grande expertise en
-                matière de design."
+                &#34;J&apos;ai eu l&apos;occasion de travailler avec Bootnow à
+                plusieurs reprises. Ils ont su m&apos;écouter et me conseiller.
+                C&apos;est une équipe très professionnelle, avec une grande
+                expertise en matière de design.&#34;
               </p>
             </div>
           </div>
@@ -295,14 +299,14 @@ const Section11 = () => {
             >
               <div className="testimonial-header">
                 <div className="testimonial-picture-container">
-                  <img
+                  <Image
                     src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c47c5ce3e4a8c3b092e1f6_Yann.png"
                     loading="lazy"
                     alt="Photo Yann"
                     className="testimonial-picture"
                   />
                   <div className="bullet-testimonial bullet-tesrimonial-in-picture">
-                    <img
+                    <Image
                       src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c22f53889de07f66f0086f_quote.svg"
                       loading="lazy"
                       alt=""
@@ -317,7 +321,7 @@ const Section11 = () => {
                   href="https://www.linkedin.com/in/yannpetretti/"
                   className="w-inline-block"
                 >
-                  <img
+                  <Image
                     src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c3259250204405c887d0f6_icon-linkedin.svg"
                     loading="lazy"
                     alt="Logo LinedIn"
@@ -325,10 +329,10 @@ const Section11 = () => {
                 </a>
               </div>
               <p className="s">
-                "Travailler avec Bootnow c'est confier votre idée encore confuse
-                à des génies créatifs qui comprennent parfaitement votre
-                business et la traduisent en maquettes de la plus haute qualité.
-                Je recommande !"
+                &#34;Travailler avec Bootnow c&apos;est confier votre idée
+                encore confuse à des génies créatifs qui comprennent
+                parfaitement votre business et la traduisent en maquettes de la
+                plus haute qualité. Je recommande !&#34;
               </p>
             </div>
           </div>
@@ -345,14 +349,14 @@ const Section11 = () => {
             >
               <div className="testimonial-header">
                 <div className="testimonial-picture-container">
-                  <img
+                  <Image
                     src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c47bd5fcd85257d97e223a_Christophe%20Bellagamba-3.png"
                     loading="lazy"
                     alt="Photo Stéphane"
                     className="testimonial-picture"
                   />
                   <div className="bullet-testimonial bullet-tesrimonial-in-picture">
-                    <img
+                    <Image
                       src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c22f53889de07f66f0086f_quote.svg"
                       loading="lazy"
                       alt=""
@@ -369,7 +373,7 @@ const Section11 = () => {
                   href="https://www.linkedin.com/in/st%C3%A9phane-bernardo-new-oxatis-account-executive/"
                   className="w-inline-block"
                 >
-                  <img
+                  <Image
                     src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c3259250204405c887d0f6_icon-linkedin.svg"
                     loading="lazy"
                     alt="Logo LinedIn"
@@ -377,8 +381,9 @@ const Section11 = () => {
                 </a>
               </div>
               <p className="s">
-                "Bootnow, c’est une expérience client au top proposée par une
-                équipe réactive qui rend un sujet technique très abordable."
+                &#34;Bootnow, c’est une expérience client au top proposée par
+                une équipe réactive qui rend un sujet technique très
+                abordable.&#34;
               </p>
             </div>
           </div>
@@ -395,14 +400,14 @@ const Section11 = () => {
             >
               <div className="testimonial-header">
                 <div className="testimonial-picture-container">
-                  <img
+                  <Image
                     src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c47bd50aeeec1e9df1f782_Christophe%20Bellagamba-2.png"
                     loading="lazy"
                     alt="Photo Nicolas"
                     className="testimonial-picture"
                   />
                   <div className="bullet-testimonial bullet-tesrimonial-in-picture">
-                    <img
+                    <Image
                       src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c22f53889de07f66f0086f_quote.svg"
                       loading="lazy"
                       alt=""
@@ -417,7 +422,7 @@ const Section11 = () => {
                   href="https://www.linkedin.com/in/santoromero/"
                   className="w-inline-block"
                 >
-                  <img
+                  <Image
                     src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c3259250204405c887d0f6_icon-linkedin.svg"
                     loading="lazy"
                     alt="Logo LinedIn"
@@ -425,8 +430,9 @@ const Section11 = () => {
                 </a>
               </div>
               <p className="s">
-                "Très content de la prestation de Bootnow. Rapide, efficace et
-                organisé. C'est le service idéal pour poser des bases solides."
+                &#34;Très content de la prestation de Bootnow. Rapide, efficace
+                et organisé. C&apos;est le service idéal pour poser des bases
+                solides.&#34;
               </p>
             </div>
           </div>
@@ -443,14 +449,14 @@ const Section11 = () => {
             >
               <div className="testimonial-header">
                 <div className="testimonial-picture-container">
-                  <img
+                  <Image
                     src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/626c66b0c2f2792e3c2ced9f_unnamed.png"
                     loading="lazy"
                     alt=""
                     className="testimonial-picture"
                   />
                   <div className="bullet-testimonial bullet-tesrimonial-in-picture">
-                    <img
+                    <Image
                       src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c22f53889de07f66f0086f_quote.svg"
                       loading="lazy"
                       alt=""
@@ -463,10 +469,9 @@ const Section11 = () => {
                 </div>
                 <a
                   href="https://fr.linkedin.com/in/celia-ricca"
-                  target="_blank"
                   className="w-inline-block"
                 >
-                  <img
+                  <Image
                     src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c3259250204405c887d0f6_icon-linkedin.svg"
                     loading="lazy"
                     alt="Logo LinedIn"
@@ -474,9 +479,9 @@ const Section11 = () => {
                 </a>
               </div>
               <p className="s">
-                "Sur un projet très complexe en termes de brief et de
+                &#34;Sur un projet très complexe en termes de brief et de
                 compréhension, une organisation millimétrée pour une efficacité
-                de compétition !"
+                de compétition !&#34;
               </p>
             </div>
           </div>

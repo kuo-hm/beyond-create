@@ -1,11 +1,15 @@
+import Image from "next/image";
+
 const Section5 = () => {
   return (
     <div className="section-medium-padding wf-section">
       <div className="wrap wrap-medium">
         <div className="text-center text-left-on-mobile">
-          <div className="uppercase-subheader">Vers l'infini et au-delà</div>
+          <div className="uppercase-subheader">
+            Vers l&apos;infini et au-delà
+          </div>
           <h3 className="headline-2 max-width-480">
-            L'UX/UI de ton app en 1 semaine pour{" "}
+            L&apos;UX/UI de ton app en 1 semaine pour{" "}
             <span className="color-text-gradient">
               De nombreuses fonctionnalités disponibles
             </span>
@@ -18,7 +22,7 @@ const Section5 = () => {
             id="w-node-ce285fc0-19d0-d95d-2d55-1bf9b6e3a85d-3f8d89c1"
             className="card-grey"
           >
-            <img
+            <Image
               src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/635a5d97aac500a9158fd8c5_illustration-landing.png"
               loading="lazy"
               width="405.5"
@@ -35,7 +39,7 @@ const Section5 = () => {
             id="w-node-ce285fc0-19d0-d95d-2d55-1bf9b6e3a853-3f8d89c1"
             className="card-grey"
           >
-            <img
+            <Image
               src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/635a5d97aac500e4598fd8c6_illustration-design%20-ystem.png"
               loading="lazy"
               width="405.5"
@@ -51,7 +55,7 @@ const Section5 = () => {
             id="w-node-ce285fc0-19d0-d95d-2d55-1bf9b6e3a858-3f8d89c1"
             className="card-grey"
           >
-            <img
+            <Image
               src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/635a5d97de4d8ad3c0e11968_illustration-deck.png"
               loading="lazy"
               width="405.5"
