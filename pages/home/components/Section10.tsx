@@ -15,15 +15,15 @@ const Section10 = () => {
       <div className="wrap">
         <div className="faq-container">
           <AccordBar
-            title="Que contient l'offre Bootnow concept exactement ?"
+            title="Que contient l'offre  concept exactement ?"
             description="L'offre concept te permet de présenter ton idée d'application / SaaS avec le design des principaux écrans. Selon la complexité du projet, nous réalisons entre 3 et 5 écrans pour une app mobile et 1 à 3 écrans pour des dashboard / SaaS. En plus du design des écrans, nous ajoutons des animations pour créer un prototype cliquable pour que tu puisses montrer concrètement à quoi ressemble l'expérience utilisateur.            "
           />
           <AccordBar
-            title="Que contient l'offre Bootnow concept exactement ?"
+            title="Que contient l'offre  concept exactement ?"
             description="L'offre concept te permet de présenter ton idée d'application / SaaS avec le design des principaux écrans. Selon la complexité du projet, nous réalisons entre 3 et 5 écrans pour une app mobile et 1 à 3 écrans pour des dashboard / SaaS. En plus du design des écrans, nous ajoutons des animations pour créer un prototype cliquable pour que tu puisses montrer concrètement à quoi ressemble l'expérience utilisateur.            "
           />
           <AccordBar
-            title="Que contient l'offre Bootnow concept exactement ?"
+            title="Que contient l'offre  concept exactement ?"
             description="L'offre concept te permet de présenter ton idée d'application / SaaS avec le design des principaux écrans. Selon la complexité du projet, nous réalisons entre 3 et 5 écrans pour une app mobile et 1 à 3 écrans pour des dashboard / SaaS. En plus du design des écrans, nous ajoutons des animations pour créer un prototype cliquable pour que tu puisses montrer concrètement à quoi ressemble l'expérience utilisateur.            "
           />
         </div>

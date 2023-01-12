@@ -6,7 +6,7 @@ const Footer = () => {
         <img
           src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/6112e8dbde3c5510141e4d8a_logo-bootnow.svg"
           loading="lazy"
-          alt="Logo Bootnow"
+          alt="Logo BE"
           className="footer-logo"
         />
         <div className="footer-container">
@@ -15,7 +15,7 @@ const Footer = () => {
               Boot your project, now.
             </h3>
             <p className="mb-32 dark-color-text">
-              Bootnow donne vie aux idées des entrepreneurs pour les aider à
+              BE donne vie aux idées des entrepreneurs pour les aider à
               convaincre leurs premiers clients et partenaires financiers.
             </p>
           </div>
@@ -67,7 +67,7 @@ const Footer = () => {
         </div>
         <div className="div-block">
           <a
-            href="https://dribbble.com/tags/bootnow"
+            href="https://dribbble.com/tags/be"
             target="_blank"
             className="btn btn-small-icon w-inline-block"
           >
@@ -85,7 +85,7 @@ const Footer = () => {
             />
           </a>
           <a
-            href="https://www.instagram.com/bootnow_startup/"
+            href="https://www.instagram.com/be/"
             target="_blank"
             className="btn btn-small-icon w-inline-block"
           >
@@ -103,7 +103,7 @@ const Footer = () => {
             />
           </a>
           <a
-            href="https://www.linkedin.com/company/bootnow"
+            href="https://www.linkedin.com/company/be"
             target="_blank"
             className="btn btn-small-icon w-inline-block"
           >
@@ -141,7 +141,7 @@ const Footer = () => {
         </div>
         <div className="footer-botom-line">
           <div className="french-touch-container">
-            <div className="xs mb-12 dark-color-text">🥖 La French Touch.</div>
+            <div className="xs mb-12 dark-color-text">FF</div>
             <div className="french-touch">
               <div className="french-touche-blue" />
               <div className="french-touch-white" />
@@ -149,7 +149,7 @@ const Footer = () => {
             </div>
           </div>
           <p className="xs dark-color-text">
-            Bootnow. © 2022. Tous droits réservés.
+            be. © 2022. Tous droits réservés.
           </p>
         </div>
       </div>

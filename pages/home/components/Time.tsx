@@ -29,6 +29,9 @@ const Time = () => {
             id="w-node-_40690fdf-dc64-025d-04e6-a9b0a982326d-3f8d89c1"
             alt="Illustration d'une feuille blanche avec des brouillons autour"
             className="boot-hand"
+            style={{ width: "100%", height: "100%" }}
+            width={24}
+            height={24}
           />
         </div>
       </div>

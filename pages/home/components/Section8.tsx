@@ -34,9 +34,11 @@ const Section8 = () => {
             <div className="block-container-success">
               <div className="container-icon-success">
                 <Image
-                  src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/624734e0acbab769b02dc239_money-icon.png"
+                  src="/images/624734e0acbab769b02dc239_money-icon.png"
                   loading="lazy"
                   width={32}
+                  height={32}
+                  style={{ height: "auto" }}
                   alt="Sac d'argent levée de fonds"
                 />
               </div>
@@ -51,16 +53,22 @@ const Section8 = () => {
             <div className="testimonial-header">
               <div className="testimonial-picture-container">
                 <Image
-                  src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/6247377e38756c6a93fc99be_nicolas-romero-futures-factory.png"
+                  src="/images/6247377e38756c6a93fc99be_nicolas-romero-futures-factory.png"
                   loading="lazy"
                   alt='Photo de Nicolas Romero, CEO de "Futures Factory"'
                   className="testimonial-picture"
+                  width={32}
+                  height={32}
+                  style={{ width: "100%", height: "auto" }}
                 />
                 <div className="bullet-testimonial bullet-tesrimonial-in-picture">
                   <Image
-                    src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c22f53889de07f66f0086f_quote.svg"
+                    src="/images/61c22f53889de07f66f0086f_quote.svg"
                     loading="lazy"
                     alt="Citation"
+                    width={32}
+                    height={32}
+                    style={{ width: "100%", height: "auto" }}
                   />
                 </div>
               </div>
@@ -73,9 +81,12 @@ const Section8 = () => {
                 className="w-inline-block"
               >
                 <Image
-                  src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c3259250204405c887d0f6_icon-linkedin.svg"
+                  src="/images/61c3259250204405c887d0f6_icon-linkedin.svg"
                   loading="lazy"
                   alt="Logo LinedIn"
+                  width={32}
+                  height={32}
+                  style={{ width: "100%", height: "auto" }}
                 />
               </a>
             </div>
@@ -86,9 +97,11 @@ const Section8 = () => {
             <div className="block-container-success">
               <div className="container-icon-success">
                 <Image
-                  src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/624734e0acbab769b02dc239_money-icon.png"
+                  src="/images/624734e0acbab769b02dc239_money-icon.png"
                   loading="lazy"
                   width={32}
+                  height={32}
+                  style={{ height: "auto" }}
                   alt="Sac d'argent levée de fonds"
                 />
               </div>
@@ -103,16 +116,22 @@ const Section8 = () => {
             <div className="testimonial-header">
               <div className="testimonial-picture-container">
                 <Image
-                  src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/624873ef901221361e5993d3_edwige-michau.png"
+                  src="/images/624873ef901221361e5993d3_edwige-michau.png"
                   loading="lazy"
                   alt='Photo de Edwige Michau, CEO de "Barooders"'
                   className="testimonial-picture"
+                  width={32}
+                  height={32}
+                  style={{ width: "100%", height: "auto" }}
                 />
                 <div className="bullet-testimonial bullet-tesrimonial-in-picture">
                   <Image
-                    src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c22f53889de07f66f0086f_quote.svg"
+                    src="/images/61c22f53889de07f66f0086f_quote.svg"
                     loading="lazy"
                     alt="Citation"
+                    width={32}
+                    height={32}
+                    style={{ width: "100%", height: "auto" }}
                   />
                 </div>
               </div>
@@ -125,9 +144,12 @@ const Section8 = () => {
                 className="w-inline-block"
               >
                 <Image
-                  src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c3259250204405c887d0f6_icon-linkedin.svg"
+                  src="/images/61c3259250204405c887d0f6_icon-linkedin.svg"
                   loading="lazy"
                   alt="Logo LinedIn"
+                  width={32}
+                  height={32}
+                  style={{ width: "100%", height: "auto" }}
                 />
               </a>
             </div>

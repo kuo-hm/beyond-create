@@ -29,10 +29,12 @@ const Section7 = () => {
             <div className="button-txt">Réserve un RDV de découverte</div>
           </a>
           <Image
-            src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/635b58f48c35bf71b738fc37_illustration-pointer-blue.png"
+            src="/images/635b58f48c35bf71b738fc37_illustration-pointer-blue.png"
             loading="lazy"
             id="w-node-_288afc0b-944b-6872-5e25-5e08ec8c6c85-3f8d89c1"
             width={141}
+            height={141}
+            style={{ height: "auto" }}
             alt="Photo de profil pendant une réunion Google Meet"
             className="ilmg-pointer-blue"
           />
@@ -271,9 +273,12 @@ const Section7 = () => {
             <div className="card-tool">
               <div className="icon-tool">
                 <Image
-                  src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/634fb12f1508d665779c105f_logo-figma.svg"
+                  src="/images/634fb12f1508d665779c105f_logo-figma.svg"
                   loading="lazy"
                   alt="Logo Figma"
+                  width={141}
+                  height={141}
+                  style={{ width: "100%", height: "auto" }}
                 />
               </div>
               <div>
@@ -286,9 +291,12 @@ const Section7 = () => {
             <div className="card-tool">
               <div className="icon-tool">
                 <Image
-                  src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/634fb17c9e74a4307fdf3d37_logo-google-meet.svg"
+                  src="/images/634fb17c9e74a4307fdf3d37_logo-google-meet.svg"
                   loading="lazy"
                   alt="Logo Google Meet"
+                  width={141}
+                  height={141}
+                  style={{ width: "100%", height: "auto" }}
                 />
               </div>
               <div>
@@ -299,12 +307,14 @@ const Section7 = () => {
               </div>
             </div>
             <Image
-              src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/635b58f4091cc51e10aef914_illustration-pointer-rose.png"
+              src="/images/635b58f4091cc51e10aef914_illustration-pointer-rose.png"
               loading="lazy"
               width={141}
               id="w-node-a8510b82-d571-c9ff-9955-80bf99dcb6e7-3f8d89c1"
               alt="Photo de profil pendant une réunion Google Meet"
               className="Image-pointer-rose"
+              height={141}
+              style={{ height: "auto" }}
             />
           </div>
         </div>

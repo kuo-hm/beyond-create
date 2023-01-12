@@ -8,7 +8,7 @@ const Section11 = () => {
           <h2>
             Rejoins les entrepreneurs <br />
             <span className="color-text-gradient">
-              qui ont propulsé leur projet avec Bootnow
+              qui ont propulsé leur projet avec
             </span>
           </h2>
         </div>
@@ -279,10 +279,10 @@ const Section11 = () => {
                 </a>
               </div>
               <p className="s">
-                &#34;J&apos;ai eu l&apos;occasion de travailler avec Bootnow à
-                plusieurs reprises. Ils ont su m&apos;écouter et me conseiller.
-                C&apos;est une équipe très professionnelle, avec une grande
-                expertise en matière de design.&#34;
+                &#34;J&apos;ai eu l&apos;occasion de travailler avec à plusieurs
+                reprises. Ils ont su m&apos;écouter et me conseiller. C&apos;est
+                une équipe très professionnelle, avec une grande expertise en
+                matière de design.&#34;
               </p>
             </div>
           </div>
@@ -329,10 +329,10 @@ const Section11 = () => {
                 </a>
               </div>
               <p className="s">
-                &#34;Travailler avec Bootnow c&apos;est confier votre idée
-                encore confuse à des génies créatifs qui comprennent
-                parfaitement votre business et la traduisent en maquettes de la
-                plus haute qualité. Je recommande !&#34;
+                &#34;Travailler avec c&apos;est confier votre idée encore
+                confuse à des génies créatifs qui comprennent parfaitement votre
+                business et la traduisent en maquettes de la plus haute qualité.
+                Je recommande !&#34;
               </p>
             </div>
           </div>
@@ -381,9 +381,8 @@ const Section11 = () => {
                 </a>
               </div>
               <p className="s">
-                &#34;Bootnow, c’est une expérience client au top proposée par
-                une équipe réactive qui rend un sujet technique très
-                abordable.&#34;
+                &#34;, c’est une expérience client au top proposée par une
+                équipe réactive qui rend un sujet technique très abordable.&#34;
               </p>
             </div>
           </div>
@@ -430,8 +429,8 @@ const Section11 = () => {
                 </a>
               </div>
               <p className="s">
-                &#34;Très content de la prestation de Bootnow. Rapide, efficace
-                et organisé. C&apos;est le service idéal pour poser des bases
+                &#34;Très content de la prestation de . Rapide, efficace et
+                organisé. C&apos;est le service idéal pour poser des bases
                 solides.&#34;
               </p>
             </div>

@@ -15,14 +15,14 @@ const index = () => {
                 {/* <Image
                   src={logo}
                   loading="lazy"
-                  alt="Icône logo Bootnow dark."
+                  alt="Icône logo  dark."
                   className="header-logo-icon"
                 /> */}
                 <div className="header-logo-container">
                   <Image
                     src="/images/logo/logo-corporate-black.png"
                     loading="lazy"
-                    alt="Bootnow dark."
+                    alt=" dark."
                     className="logo-bootnow-text"
                     fill
                   />

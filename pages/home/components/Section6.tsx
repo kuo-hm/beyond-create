@@ -11,9 +11,9 @@ const Section6 = () => {
           >
             <div className="quote-container">
               <div className="xl extra-bold color-text-strong mb-24">
-                Travailler avec Bootnow c&apos;est confier votre idée encore
-                confuse à des génies créatifs qui comprennent parfaitement votre
-                business et la traduisent en maquettes de la plus haute qualité.
+                Travailler avec c&apos;est confier votre idée encore confuse à
+                des génies créatifs qui comprennent parfaitement votre business
+                et la traduisent en maquettes de la plus haute qualité.
               </div>
               <div className="container-testimonial-quote">
                 <div className="quote color-text-gradient">“</div>
@@ -26,10 +26,12 @@ const Section6 = () => {
               <div className="testimonial-picture-container">
                 <Image
                   loading="lazy"
-                  width={32}
                   alt="Yann Petretti, photo de profil"
-                  src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/61c47c5ce3e4a8c3b092e1f6_Yann.png"
+                  src="/images/Yann.png"
                   className="testimonial-picture"
+                  width={32}
+                  height={32}
+                  style={{ height: "auto" }}
                 />
               </div>
               <div>
@@ -39,11 +41,14 @@ const Section6 = () => {
             </div>
           </div>
           <Image
-            src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/634f90e8b0f2e94bffac1f6d_boot-happy.svg"
+            src="/images/boot-happy.svg"
             loading="lazy"
             id="w-node-_2ef8447b-3476-dda3-f422-f51d5b85c6c5-3f8d89c1"
-            alt="Mascotte Bootnow qui sourris et pose avec le pouce en l'air"
+            alt="Mascotte  qui sourris et pose avec le pouce en l'air"
             className="boot-happy"
+            width={32}
+            height={32}
+            style={{ width: "100%", height: "auto" }}
           />
         </div>
       </div>

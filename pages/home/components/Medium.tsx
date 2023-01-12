@@ -22,6 +22,9 @@ const Medium = () => {
                 src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/634f847a6f66af94a2866fd8_badge-bullet-list-cross.svg"
                 loading="lazy"
                 alt="Icon croix"
+                style={{ width: "100%", height: "100%" }}
+                width={24}
+                height={24}
               />
               <div className="p-subheader dark-color-text">
                 Ton projet n’est pas pris au sérieux
@@ -30,6 +33,9 @@ const Medium = () => {
                 src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/634f847a6f66af94a2866fd8_badge-bullet-list-cross.svg"
                 loading="lazy"
                 alt="Icon croix"
+                style={{ width: "100%", height: "100%" }}
+                width={24}
+                height={24}
               />
               <div className="p-subheader dark-color-text">
                 Les utilisateurs ne comprennent pas ton produit
@@ -42,6 +48,9 @@ const Medium = () => {
             id="w-node-_49c9b8d2-1b61-a1e9-7efe-bd848cdcb0da-3f8d89c1"
             alt="Illustration de la mascotte Boot dans une soucoupe volante"
             className="boot-soucoupe-volante"
+            style={{ width: "100%", height: "100%" }}
+            width={24}
+            height={24}
           />
         </div>
       </div>

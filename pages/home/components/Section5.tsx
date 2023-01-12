@@ -23,9 +23,11 @@ const Section5 = () => {
             className="card-grey"
           >
             <Image
-              src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/635a5d97aac500a9158fd8c5_illustration-landing.png"
+              src="/images/illustration-landing.png"
               loading="lazy"
-              width="405.5"
+              width="405"
+              style={{ width: "405.5px", height: "auto" }}
+              height={100}
               alt="Insère les écrans de ton app sur une landing page pour présenter ton projet et trouver tes premiers clients."
             />
             <h3 className="m mb-16">Confronter ton marché</h3>
@@ -40,9 +42,11 @@ const Section5 = () => {
             className="card-grey"
           >
             <Image
-              src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/635a5d97aac500e4598fd8c6_illustration-design%20-ystem.png"
+              src="/images/illustration-design%20-ystem.png"
               loading="lazy"
-              width="405.5"
+              width="405"
+              style={{ width: "405.5px", height: "auto" }}
+              height={100}
               alt="Le design system de ton app pour accélérer le développement du MVP."
             />
             <h3 className="m mb-16">Développer ton MVP</h3>
@@ -56,9 +60,11 @@ const Section5 = () => {
             className="card-grey"
           >
             <Image
-              src="https://assets.website-files.com/61129ba17ba6a39d24a9733d/635a5d97de4d8ad3c0e11968_illustration-deck.png"
+              src="/images/illustration-deck.png"
               loading="lazy"
-              width="405.5"
+              width="405"
+              style={{ width: "405.5px", height: "auto" }}
+              height={100}
               alt="Insère les écrans de ton app dans ton pitch deck pour présenter ta vision aux investisseurs et lever des fonds."
             />
             <h3 className="m mb-16">Pitcher ton projet</h3>
